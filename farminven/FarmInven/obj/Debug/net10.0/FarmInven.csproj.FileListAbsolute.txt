@@ -1,0 +1,15 @@
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/bin/Debug/net10.0/FarmInven
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/bin/Debug/net10.0/FarmInven.deps.json
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/bin/Debug/net10.0/FarmInven.runtimeconfig.json
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/bin/Debug/net10.0/FarmInven.dll
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/bin/Debug/net10.0/FarmInven.pdb
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.AssemblyInfoInputs.cache
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.AssemblyInfo.cs
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.csproj.CoreCompileInputs.cache
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.sourcelink.json
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.dll
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/refint/FarmInven.dll
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.pdb
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/FarmInven.genruntimeconfig.cache
+/Users/vanerin/AgriMart-FarmInven-System/farminven/FarmInven/obj/Debug/net10.0/ref/FarmInven.dll
